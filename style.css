@@ -1,0 +1,156 @@
+.header{
+    background-color: #ff4c68;
+    overflow: hidden;
+}
+
+
+.NavBrand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.heading_dog{
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.title-image img{
+    height: 600px;
+}
+
+.title-image{
+    transform: rotate(25deg);
+}
+/* @media (min-width: 992px){
+    .col-lg-6 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+}
+@media (max-width: 992px){
+    .title-image{
+        transform: rotate(0);
+    }
+    .title-image img{
+        height: 400px;
+    }
+    #title {
+        text-align: center;
+    }
+    .heading_dog{
+        font-family: "Montserrat";
+        font-size: 3rem;
+        font-weight: 900;
+        line-height: 1.5;
+        color: #fff;
+    }
+    .button_download{
+        text-align: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 569px){
+    .title-image img{
+        height: 400px;
+    }
+    #title {
+        text-align: center;
+    }
+    .heading_dog{
+        font-family: "Montserrat";
+        font-size: 2rem;
+        font-weight: 900;
+        line-height: 1.5;
+        color: #fff;
+    }
+    .button_download{
+        text-align: center;
+        justify-content: center;
+    }
+} */
+
+
+.featuresBox{
+    font-family: "Montserrat";
+    padding: 5% 15%;
+    background-color: white;
+    position: relative;
+}
+
+.featureCol{
+    padding: 15px 30px;
+}
+.featuresBox h2{
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.featuresBox p{
+    color: #8f8f8f;
+    padding: 5%;
+}
+
+.testimonial{
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testText{
+    padding: 5% 15%;
+}
+.testImg {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonalText{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: 900;
+}
+
+em{
+    font-style: italic;
+}
+
+.brandName{
+    background-color: #ef8172;
+}    
+
+.brandName .logo{
+    width: 15%;
+    margin: 20px 20px 15px;
+}
+
+.pricingHead h2{
+    font-size: 60px;
+    
+}
+
+.pricingHead p{
+    font-size: 25px;
+}
+
+
+.trueLove{
+    background-color: #ff4c68;
+
+}
+
+.trueLove .dogLove{
+    font-size: 80px;
+    color: white;
+}
+
+.iconsFooter{
+    font-size: 40px;
+}
+
